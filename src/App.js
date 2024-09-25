@@ -136,7 +136,7 @@ function App() {
           <li><button>Tips</button></li>
           <li><button>Vegetarian</button></li>
           <li><button>Non-Veg</button></li>
-          <li><button>Today's Dinner!</button></li>
+        
         
           
         </ul>
